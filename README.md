@@ -1,1 +1,3 @@
-# Second-Repoo
+#Mine Project
+Learning Version Control
+Github
